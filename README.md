@@ -60,4 +60,4 @@ ________________________________________
 ## Disclaimer
 No Warranties: This software is provided on an “as is” basis, without warranties or conditions of any kind, either express or implied. The authors do not assume any responsibility for the correct functioning of the code, for any bugs or for unintended consequences arising from the use of this software. Use at your own risk.
 ________________________________________
-Happy validating! If you have questions, suggestions, or concerns, reach out to the project maintainers
+Happy validating! If you have questions, suggestions, or concerns, reach out to gregor@osmodelling.com.
